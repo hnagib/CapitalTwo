@@ -1,11 +1,11 @@
-# Project Title
+# CapitalTwo
 
-Project description 
+A crypto bot
 
 :open_file_folder: Repo Organization
 --------------------------------
 
-    ├── src                <- Modules used in and shared by different lectures & assignments
+    ├── src                <- Modules & scripts
     │   ├── ...       
     │   └── ...            
     │
